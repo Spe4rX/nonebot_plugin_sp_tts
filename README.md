@@ -1,0 +1,2 @@
+# nonebot_plugin_sp_tts
+基于nonebot和阿里云的tts插件
